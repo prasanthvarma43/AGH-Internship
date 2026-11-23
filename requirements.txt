@@ -1,0 +1,11 @@
+@"
+flask
+python-dotenv
+groq
+edge-tts
+requests
+websocket-client
+pydub
+pydub-lts
+audioop-lts
+"@ | Set-Content requirements.txt
